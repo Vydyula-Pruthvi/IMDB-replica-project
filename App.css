@@ -1,0 +1,25 @@
+.color{background-color: black;}
+
+#img{position: relative;
+left: 50px;
+top: 10px;}
+.btn:hover{color: blue;}
+.none{
+margin-top: 350px}
+
+    @media screen and (max-width:530px){
+
+
+#watchers{width: 480px;
+}
+
+#end{text-align: center;}
+#picss{width: 255px;}
+
+#img{position: relative;
+    left: 0px;
+    top: 0px;}
+    #last{width: 460px;}
+
+}
+
